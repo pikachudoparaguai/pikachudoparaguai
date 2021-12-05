@@ -1,7 +1,7 @@
 - 👋 Olá, eu me chamo Pikachu (Davi).
 - 💻 Sou o desenvolvedor e criador do Fivelist.
 - ❔ Programo bots para discord em JavaScript, a 2 anos.
-- 📋 Faço bots para FiveM pelo melhor preço do mercado, basta me chamar pelo discord: ! Pikaxu#0666
+- 📋 Faço bots para FiveM pelo melhor preço do mercado, basta me chamar pelo discord: ! Pikaxu#8486
 - 👉 Caso queira testar o meu bot (Fivelist) adicione ele em: discord.ly/fivelist (Se gostar dele, de um voto para me ajudar).
 - 💡 Abaixo estão algum dos comandos do bot:
 
